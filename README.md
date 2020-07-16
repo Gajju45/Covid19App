@@ -9,7 +9,7 @@ This App shows the worldwide data.In this Era, this App is playing a vital role 
     //pie chart
     implementation 'com.github.blackfizz:eazegraph:1.2.5l@aar'
     implementation 'com.nineoldandroids:library:2.4.0'
-    //voly libray for json
+    //volley library  for json
     implementation 'com.android.volley:volley:1.1.1'
     //Animation
     implementation 'com.leo.simplearcloader:simplearcloader:1.0.+'

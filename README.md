@@ -3,7 +3,9 @@ This app is specially made for “Corona Track”.In this App, I used the rest A
 This APP updates the data in 10 minutes. In this App, I used the pie chart to display the status of the corona. 
 This App shows the worldwide data.In this Era, this App is playing a vital role because it's easy to watch the Corona Status on the Mobile Phone .
 
-# dependencies 
+# Add dependencies 
+   dependencies {
+    
     //pie chart
     implementation 'com.github.blackfizz:eazegraph:1.2.5l@aar'
     implementation 'com.nineoldandroids:library:2.4.0'
@@ -16,4 +18,4 @@ This App shows the worldwide data.In this Era, this App is playing a vital role 
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 
 
-
+}
